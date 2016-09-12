@@ -1,2 +1,10 @@
 # 第一周学习内容
 
+在第一天的课上，老师介绍了linux的历史和如何注册github和gitbook,然后我们开始了自己的尝试。
+流程如下：
+注册github
+fork老师gitbook里的note
+使用github账户登陆gitbook，并通过邮箱验证
+在gitbook中新建book,选择导入GITHUB
+在issue上报上自己的信息
+在gitbook上写作
